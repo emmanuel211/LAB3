@@ -1,0 +1,21 @@
+//pseudochode that counts all the odd numbers up to the user defined stoping point  then computes the average of the numbers.
+//define INPUT and OUTPUT
+//readendpoint 
+//statement set y value
+//condition- y value set is less than endpoint
+//increment
+//IF-checks the odd numbers
+//IF-sums the odd numbers
+//AVERAGE-does average of the numbers
+
+
+*************************pseudocode***************************
+Input endpoint
+
+	read endpoint from user
+
+		FOR set y value to 1 and y value should be less than endpoint then increament the y value 
+
+	IF y modules two is not equal to zero
+
+		THEN find the sum of odd numbers and divide them by the number of odd numbers and compute average afterwards
